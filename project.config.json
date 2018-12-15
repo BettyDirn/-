@@ -6,10 +6,12 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"nodeModules": false,
+		"autoAudits": false
 	},
 	"appid": "wx4236b991a6d8fb1c",
-	"projectname": "%E6%B3%A1%E6%B2%AB%E6%B2%AB",
+	"projectname": "paomomo",
 	"libVersion": "2.2.5",
 	"condition": {
 		"search": {
